@@ -1,0 +1,10 @@
+POST localhost:8080/posts
+Content-Type: application/json
+
+{
+  "title": "테스트 타이틀",
+  "content": "테스트 본문",
+  "author": "test@gmail.com"
+}
+
+###
